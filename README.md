@@ -4,7 +4,7 @@
 - After editing the file, change the file name to ".I2plg".
 - Download [Here](https://github.com/ISZ-Hacker-Organization/I2plg-Loader/blob/main/ISZ2021-Plugin-Loader.exe?raw=true).
 - Example Plugin [Here](https://github.com/ISZ-Hacker-Organization/I2plg-Loader/releases/download/v1.0/plugin.I2plg).
-- Requires the [ISZ-Console-Injector]().
+- Requires the [ISZ-Console-Injector](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector/blob/main/VS-Injector.zip?raw=true).
 
 
 # I2plg Documentation:
