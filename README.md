@@ -2,7 +2,7 @@
 - Loads I2plg Plugins into Ice Station Z 2021.
 - Allows for Hacking, Debugging, and Modding.
 - After editing the file, change the file name to ".I2plg".
-- Download [Here]().
+- Download [Here](https://github.com/ISZ-Hacker-Organization/I2plg-Loader/blob/main/ISZ2021-Plugin-Loader.exe?raw=true).
 - Example Plugin [Here]().
 
 
