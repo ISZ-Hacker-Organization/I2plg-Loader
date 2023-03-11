@@ -50,3 +50,22 @@ starts/stops a wasd camera, used for pictures and debugging game-play.
 >
 >> Immediately Kill A Zombie/Player At Cursor Position.
 >
+
+# Plugin Loader Output:
+
+```
+Plugin Creator: Cracko298
+Loaded Plugin: plugin.I2plg.
+
+Code #1 Hotkey - '7'.
+Enables Plugin to Be Used Online (Hosting Only).
+
+Code #2 Hotkey - '8'.
+Turn On/Off Infinite Health.
+
+Code #3 Hotkey - '9'.
+Teleport To Cursor Position.
+
+Code #4 Hotkey - '0'.
+Immediately Kill A Zombie/Player At Cursor Position.
+```
