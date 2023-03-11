@@ -32,12 +32,21 @@ starts/stops a wasd camera, used for pictures and debugging game-play.
 ```
 
 # Full Plugin Example:
-> Cracko298
-> disconnect
-> Enables Plugin to Be Used Online (Hosting Only).
-> god
-> Turn On/Off Infinite Health.
-> teleport
-> Teleport To Cursor Position.
-> damagetarget 200
-> Immediately Kill A Zombie/Player At Cursor Position.
+>> Cracko298
+>
+>> disconnect
+>
+>> Enables Plugin to Be Used Online (Hosting Only).
+>
+>> god
+>
+>> Turn On/Off Infinite Health.
+>
+>> teleport
+>
+>> Teleport To Cursor Position.
+>
+>> damagetarget 200
+>
+>> Immediately Kill A Zombie/Player At Cursor Position.
+>
