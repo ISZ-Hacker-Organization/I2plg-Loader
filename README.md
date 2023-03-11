@@ -3,7 +3,7 @@
 - Allows for Hacking, Debugging, and Modding.
 - After editing the file, change the file name to ".I2plg".
 - Download [Here](https://github.com/ISZ-Hacker-Organization/I2plg-Loader/blob/main/ISZ2021-Plugin-Loader.exe?raw=true).
-- Example Plugin [Here]().
+- Example Plugin [Here](https://github.com/ISZ-Hacker-Organization/I2plg-Loader/releases/download/v1.0/plugin.I2plg).
 
 
 # I2plg Documentation:
