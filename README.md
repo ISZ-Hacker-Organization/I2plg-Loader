@@ -1,7 +1,7 @@
 # I2plg-Loader
 - Loads I2plg Plugins into Ice Station Z 2021.
 - Allows for Hacking, Debugging, and Modding.
-
+- After editing the file, change the file name to ".I2plg".
 
 
 # I2plg Documentation:
@@ -31,7 +31,7 @@ toggledebugcamera
 starts/stops a wasd camera, used for pictures and debugging game-play.
 ```
 
-# Full Plugin Example:
+# Full Plugin Source Example:
 >> Cracko298
 >
 >> disconnect
