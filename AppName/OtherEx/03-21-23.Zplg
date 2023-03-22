@@ -1,0 +1,10 @@
+CREATOR 			Cracko298
+
+SEEK 			9
+
+CRASH_VALUE_MIN		0
+CRASH_VALUE_MAX		2
+
+NEW_VALUE 			1
+
+NOTE 			= Fixes Coordinates.
